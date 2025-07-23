@@ -12,6 +12,10 @@ html, body {
 	justify-content: center; /* Aligns horizontally centre. */
 }
 
+.timer {
+	font-size:100px;
+}
+
 /* Adds text before/after the estimate to improve the look. */
 /* You could also use this idea with things that aren't the estimate. */
 #text_gameEstimateA:before {content: 'EST: ';} /* A label to explain what the numbers actually are. */
